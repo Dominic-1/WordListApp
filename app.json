@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wordlistapp",
+    "slug": "wordlistapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wordlistapp"
+}
